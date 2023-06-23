@@ -76,11 +76,26 @@ a:hover {
 
 /* banner */
 .banner{
-  width: 90%;
+  width: 100%;
   height: 400px;
   margin-top: 15px;
   margin-left:  0;
   margin-right: 0;
+}
+
+
+/* column */
+
+.columns{
+	background-color: aqua;
+}
+
+.column-item{
+	width: 200px;
+}
+
+.columns-item-image img{
+	width: 16%;
 }
 
 
